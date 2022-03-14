@@ -1,5 +1,2 @@
-from winreg import HKEY_LOCAL_MACHINE
+#Print the fibonacci sequence of a given number n                                                                   
 
-
-hello 
-HKEq
